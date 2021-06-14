@@ -1,0 +1,19 @@
+{
+  "name": "does-not-overlap",
+  "version": "1.0.0",
+  "description": "Displays a boolean on whether or not both ranges overlap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sh4dow-s0urcer/doverlap-js.git"
+  },
+  "author": "Axel Grullón",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sh4dow-s0urcer/doverlap-js/issues"
+  },
+  "homepage": "https://github.com/sh4dow-s0urcer/doverlap-js#readme"
+}
